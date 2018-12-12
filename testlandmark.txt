@@ -1,0 +1,1 @@
+/home/yl/hd/detection/Face-Yaw-Roll-Pitch-from-Pose-Estimation-using-OpenCV/headPose.jpg 304 337 340 480 287 250 440 257 295 396 388 400
